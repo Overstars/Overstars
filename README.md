@@ -1,7 +1,7 @@
 ## About me
 
 - 🔭 I’m currently working on Java, OceanBase, Spring Cloud Alibaba(maybe?)...
-- 🌱 I’m currently learning Electric guitar, Jetpack compose, Electron...
+- 🌱 I’m currently learning Electric Guitar, Jetpack Compose, Electron...
 - 🤩 I'm interested in C++, PostgreSQL, CMU15445, Spring Cloud...
 - 💬 Ask me about [The ICPC : International Collegiate Programming Contest](https://icpc.global/).
 
@@ -23,15 +23,18 @@ Here are some ideas to get you started:
 ### Educational Background
 
 - Bachelor: Liaoning University (2018.8-2022.6)
-
-  Major: Computer Science
-
-  Location: [ Shenyang](https://en.wikipedia.org/wiki/Shenyang), [Liaoning](https://en.wikipedia.org/wiki/Liaoning), China
+- Major: Computer Science
+- Location: [ Shenyang](https://en.wikipedia.org/wiki/Shenyang), [Liaoning](https://en.wikipedia.org/wiki/Liaoning), China
 
 ### Contact me
 
 - Email [Overstars@foxmail.com](mailto:Overstars@foxmail.com)
 - Telegram @Overstars233
+
+### Something Interesting
+
+- [gitm😆ji](https://gitmoji.dev).
+- [kroki](https://kroki.io/#try).
 
 ---
 
